@@ -32,7 +32,6 @@ class Auto extends vehiculo{
     public $anio = 'N/A'
     public $color = 'N/A'
 
-    funst
 }
 
 ?>
